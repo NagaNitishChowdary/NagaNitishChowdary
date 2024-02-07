@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Movie Booking Application**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **MERN**
 
