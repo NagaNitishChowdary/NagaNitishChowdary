@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Movie Booking Application**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **ML**
 
 - 📫 How to reach me **naganitishkapu@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/uvGM5](https://shorturl.at/uvGM5)
+- 📄 Know about my experiences https://shorturl.at/8i0Dl
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
