@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning AI
 
-💬 Ask me about ML, Data Structures, and Competitive Programming
+💬 Ask me about Data Structures, and Competitive Programming
 
 <!--- 🌱 I’m currently learning **AI**
 
