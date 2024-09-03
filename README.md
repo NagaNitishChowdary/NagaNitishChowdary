@@ -4,6 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naganitishchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="naganitishchowdary" /> </p>
 
+🔭 I’m currently working at TCS
+
+🌱 I’m currently learning AI
+
+💬 Ask me about ML, Data Structures, and Competitive Programming
+
 <!--- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **ML**
